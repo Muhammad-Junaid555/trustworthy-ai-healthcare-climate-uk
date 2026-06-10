@@ -1,0 +1,16 @@
+# Baseline Model Results
+
+## Model
+Random Forest Regressor
+
+## Dataset
+Scikit-Learn Diabetes Dataset
+
+## Evaluation
+
+- MAE:
+- R² Score:
+
+## Observations
+
+The baseline model provides a starting point for future explainability and fairness analysis.
